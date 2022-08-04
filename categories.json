@@ -1,0 +1,994 @@
+{
+  "Product Category": {
+    "category": {
+      "access management": [
+        "auth0",
+        "onelogin",
+        "ping identity",
+        "pingone",
+        "duo access",
+        "okta adaptive mfa",
+        "entrust identity enterprise",
+        "oracle access management",
+        "Symantec VIP",
+        "securid",
+        "cloud akamai",
+        "siteminder",
+        "secureauth login",
+        "shibboleth",
+        "fortiauthenticator"
+      ],
+      "asset management": [
+        "qualys assetview",
+        "lanscope cat"
+      ],
+      "backup & recovery": [
+        "rubrik cdm",
+        "cds"
+      ],
+      "browser isolation": [
+        "symantec fireglass"
+      ],
+      "cloud app security broker (casb)": [
+        "bitglass casb",
+        "netskope security cloud",
+        "cisco cloudlock",
+        "symantec cloudsoc",
+        "microsoft cas",
+        "forcepoint casb",
+        "aws guardduty",
+        "palo alto aperture",
+        "skyhigh networks casb"
+      ],
+      "cloud auditing": [
+        "aws cloudtrail",
+        "gcp cloudaudit",
+        "azure monitor",
+        "oracle public cloud"
+      ],
+      "code management": [
+        "atlassian bitbucket",
+        "perforce",
+        "github"
+      ],
+      "communication platform": [
+        "zoom",
+        "slack",
+        "teams",
+        "anywhere365",
+        "cisco unified cm"
+      ],
+      "credential management": [
+        "specops password",
+        "password manager pro",
+        "lastpass"
+      ],
+      "crm (customer relationship management)": [
+        "salesforce"
+      ],
+      "database": [
+        "teradata rdbms",
+        "mariadb",
+        "sybase",
+        "sonarg",
+        "cassandra db",
+        "postgresql",
+        "mssql",
+        "oracle database",
+        "db2",
+        "snowflake"
+      ],
+      "database security": [
+        "oracle audit vault and database firewall"
+      ],
+      "directory service auditing": [
+        "opendj",
+        "sunone",
+        "edirectory"
+      ],
+      "dlp (data loss prevention)": [
+        "code42 incydr",
+        "infowatch",
+        "symantec dlp",
+        "proofpoint dlp",
+        "digital guardian network dlp",
+        "gtb technologies dlp",
+        "forcepoint dlp"
+      ],
+      "edr (endpoint detection & response)": [
+        "carbon black ces",
+        "sentinelone",
+        "lumension",
+        "tanium endpoint platform",
+        "falcon",
+        "carbon black edr",
+        "cortex xdr",
+        "logbinder for sharepoint",
+        "digital guardian endpoint protection",
+        "fireeye endpoint security (hx)",
+        "endgame edr",
+        "cisco secure endpoint",
+        "symantec edr"
+      ],
+      "esignature (electronic signature)": [
+        "onespan",
+        "docusign esignature",
+        "signnow"
+      ],
+      "email security": [
+        "ironport email",
+        "imsva",
+        "hornet email",
+        "mimecast email security",
+        "symantec email security",
+        "smg",
+        "clearswift seg",
+        "barracuda email security gateway",
+        "safesend",
+        "proofpoint enterprise protection",
+        "fireeye etp",
+        "trend micro scanmail",
+        "cisco secure email"
+      ],
+      "email": [
+        "microsoft exchange",
+        "hmailserver",
+        "hcl notes",
+        "postfix"
+      ],
+      "endpoint auditing": [
+        "event viewer - security",
+        "event viewer - system",
+        "event viewer - application",
+        "event viewer - dnsserver",
+        "bind dns",
+        "event viewer - powershell",
+        "sysmon",
+        "event viewer - adfs",
+        "event viewer - certificateservicesclient",
+        "event viewer - terminalservices-gateway",
+        "event viewer - nps",
+        "event viewer - dhcp-client",
+        "event viewer - applocker",
+        "event viewer - dhcp-server",
+        "azure monitor - vm insights",
+        "openvms",
+        "unix auditd",
+        "unix",
+        "z/os",
+        "auditbeat"
+      ],
+      "epp (endpoint protection)": [
+        "bromium secure platform",
+        "kaspersky endpoint security for business",
+        "gravityzone",
+        "eset endpoint security",
+        "cylance",
+        "blackberry protect",
+        "officescan",
+        "deep security agent",
+        "symantec endpoint protection",
+        "sophos endpoint protection",
+        "traps endpoint security manager",
+        "checkpoint anti-malware",
+        "microsoft defender for endpoint",
+        "mcafee endpoint security"
+      ],
+      "erp (enterprise resource planning)": [
+        "sap",
+        "workday"
+      ],
+      "event management & forwarding": [
+        "exabeam dl",
+        "quest intrust",
+        "adauditplus",
+        "quest change auditor for active directory",
+        "logbinder for sharepoint",
+        "logbinder for sql server",
+        "azure event hub",
+        "rangeraudit",
+        "rsyslog",
+        "esector defesa",
+        "microfocus arcsight",
+        "citrix gateway connector for exchange activesync",
+        "centrify audit and monitoring service"
+      ],
+      "file integrity monitoring": [
+        "cimtrak",
+        "integrity monitor",
+        "imperva file activity monitoring",
+        "nnt changetracker"
+      ],
+      "file sharing": [
+        "imanage",
+        "netdocs",
+        "netapp",
+        "box cloud content management",
+        "citrix sharefile",
+        "emc isilon",
+        "synology nas",
+        "egnyte",
+        "dropbox",
+        "HPE 3PAR StoreServ",
+        "kiteworks",
+        "cohesity dataplatform"
+      ],
+      "file transfer": [
+        "ipswitch moveit",
+        "moveit dmz",
+        "goanywhere mft",
+        "sftp",
+        "ftp",
+        "axway gateway",
+        "titanftp"
+      ],
+      "firewall": [
+        "check point ngfw",
+        "cisco adaptive security appliance",
+        "sangfor ngaf",
+        "cisco firepower",
+        "iptables fw",
+        "forcepoint ngfw",
+        "huwai enterprise network firewall",
+        "sonicwall",
+        "barracuda fw",
+        "cisco meraki mx appliance",
+        "pfsense",
+        "f5 advanced firewall manager",
+        "fortigate",
+        "fortinet enterprise firewall",
+        "fortinet utm",
+        "juniper srx",
+        "cisco pix",
+        "palo alto ngfw",
+        "sophos utm",
+        "watchguard",
+        "sophos xg firewall",
+        "huawei unified security gateway"
+      ],
+      "honeypot": [
+        "trapx",
+        "botsink"
+      ],
+      "human capital management (hcm)": [
+        "successfactors"
+      ],
+      "identity administration": [
+        "check point identity awareness",
+        "one identity manager",
+        "netiq identity and access management",
+        "imprivata",
+        "identitynow",
+        "securityiq",
+        "securelink",
+        "vmware identity manager",
+        "xceedium"
+      ],
+      "infrastructure monitoring?": [
+        ""
+      ],
+      "insider risk management": [
+        "dtex intercept",
+        "observeit",
+        "advanced threat analytics (ata)",
+        "Proofpoint Insider Threat Management",
+        "Micro Focus ArcSight Intelligence",
+        "LogRhythm UserXDR",
+        "ActivTrak",
+        "Forcepoint Insider Threat"
+      ],
+      "iot security": [
+        "symantec critical system protection"
+      ],
+      "ip address management (ipam)": [
+        "nokia vitalqip",
+        "infoblox nios",
+        "n3k",
+        "bloxone ddi",
+        "bluecat networks"
+      ],
+      "ips (intrusion prevention system)": [
+        "ixia threatarmor",
+        "mcafee network security platform",
+        "cisco sourcefire",
+        "proventia network ips",
+        "fidelis xps"
+      ],
+      "load balancer": [
+        "kemp loadmaster",
+        "load balancer",
+        "load balancer"
+      ],
+      "mobile management": [
+        "vmware airwatch"
+      ],
+      "network access control (nac)": [
+        "cisco ise",
+        "cisco acs",
+        "microsoft network policy server",
+        "forescout counteract",
+        "packetfence",
+        "viascope ipscan",
+        "aruba clearpass access control and policy management"
+      ],
+      "network analyzer": [
+        "zeek",
+        "cloudflare insights",
+        "vectra cognito stream",
+        "cisco netflow"
+      ],
+      "network devices": [
+        "cisco ios",
+        "avaya ethernet routing switch",
+        "aruba wireless controller",
+        "arubaos",
+        "hp comware"
+      ],
+      "network automation and orchestration": [
+        "algosec firewall analyzer",
+        "msdhcp",
+        "f5 big-ip dns"
+      ],
+      "network performance monitoring": [
+        "splunk stream",
+        "nagios"
+      ],
+      "network infrastructure & management": [
+        "zebra wlan management",
+        "ruckus"
+      ],
+      "physical access control": [
+        "onguard",
+        "net2door",
+        "lyrix",
+        "lenel onguard",
+        "kaba exos",
+        "johnson controls p2000",
+        "icpam",
+        "honeywell win-pak",
+        "honeywell siama",
+        "honeywell pro-watch",
+        "identiv",
+        "access it universal.net",
+        "timelox",
+        "generic badge access",
+        "galaxy",
+        "datawatch",
+        "symmetry access control",
+        "swipes",
+        "siemens access control",
+        "securityexpert",
+        "ccure building management system",
+        "brivo",
+        "rs2 technologies",
+        "rightcrowd",
+        "badge",
+        "aviglion acm",
+        "sensormatik",
+        "gallagher access control",
+        "vanderbilt"
+      ],
+      "printer": [
+        "lexmark",
+        "hp safecom",
+        "hp laserjet printer",
+        "ricoh printer",
+        "hp print server",
+        "asupim",
+        "xps",
+        "xerox"
+      ],
+      "privilege access management": [
+        "osirium",
+        "megaflex",
+        "mastersam pam",
+        "thycotic software secret server",
+        "beyondtrust privileged identity",
+        "beyondtrust",
+        "ca privileged access manager server control",
+        "hashicorp vault",
+        "powertech identity access manager (boks)",
+        "unix privilege management",
+        "centrify infrastructure services",
+        "cyberark vault",
+        "cyberark psm",
+        "cyberark epm"
+      ],
+      "proxy": [
+        "microsoft web application proxy",
+        "squid"
+      ],
+      "remote access": [
+        "remotelyanywhere",
+        "microsoft rras",
+        "apache guacamole"
+      ],
+      "sandboxing": [
+        "proofpoint tap",
+        "lastline",
+        "check point threat emulation",
+        "deep discovery inspector"
+      ],
+      "secure web gateway": [
+        "cisco umbrella",
+        "blue coat proxysg",
+        "ironport web security",
+        "websense security gateway",
+        "cisco cloud web security",
+        "edgewave iprism",
+        "digital arts i-filter for business",
+        "mimecast targeted threat protection - url",
+        "mimecast web security",
+        "iboss secure web gateway",
+        "zscaler internet access",
+        "interscan web security",
+        "symantec secure web gateway",
+        "symantec wss",
+        "cisco secure web appliance"
+      ],
+      "siem (security information and event management)": [
+        "qradar siem",
+        "logrhythm",
+        "eyeinspect",
+        "darktrace",
+        "skysea clientview",
+        "rsa netwitness",
+        "wazuh",
+        "epic siem",
+        "exabeam aa",
+        "splunk se",
+        "netwrix auditor",
+        "varonis data security platform"
+      ],
+      "threat intelligence": [
+        "palo alto wildfire"
+      ],
+      "unified endpoint management (UEM)": [
+        "citrix endpoint management"
+      ],
+      "user authentication": [
+        "silverfort",
+        "secure envoy",
+        "swivel",
+        "rsa authentication manager",
+        "rsa adaptive authentication",
+        "centrify authentication service",
+        "centrify zero trust privilege services",
+        "thales",
+        "secure computing safeword",
+        "digipass",
+        "gemalto mfa"
+      ],
+      "virtualization & containers": [
+        "citrix virtual apps",
+        "citrix virtual desktop",
+        "vmware view",
+        "vmware esxi",
+        "vmware vcenter",
+        "openshift",
+        "ovirt",
+        "vmware horizon"
+      ],
+      "vpn (virtual private network)": [
+        "check point security gateway",
+        "nortel contivity vpn",
+        "netmotion wireless",
+        "ncp",
+        "anyconnect",
+        "cognitas crosslink",
+        "open vpn",
+        "securenet",
+        "cato cloud",
+        "avaya vpn",
+        "zscaler private access",
+        "fortinet vpn",
+        "juniper pulse secure",
+        "palo alto globalprotect",
+        "citrix netscaler vpn"
+      ],
+      "vulnerability assessment": [
+        "tenable.io"
+      ],
+      "waf (web application firewall)": [
+        "citrix appfw",
+        "airlock waf",
+        "f5 advanced web application firewall",
+        "aws waf",
+        "barracuda waf",
+        "sigsci",
+        "radware waf",
+        "f5 application security manager",
+        "fortiweb waf",
+        "imperva incapsula",
+        "imperva securesphere",
+        "magento waf",
+        "f5 silverline",
+        "cloudflare waf"
+      ],
+      "web server auditing": [
+        "microsoft iis"
+      ],
+      "workload protection": [
+        "carbon black app control",
+        "illumio",
+        "aws cloudwatch",
+        "prisma cloud",
+        "cisco adc"
+      ],
+      "other": [
+        "icdb",
+        "cisco dhcp",
+        "weblogin",
+        "vormetric",
+        "vmware nsx",
+        "usb",
+        "fileauditor",
+        "fast enterprises gentax",
+        "sailpoint fam",
+        "emp",
+        "edocs",
+        "clearsense",
+        "servicenow",
+        "tufin securetrack",
+        "seclore",
+        "ruid",
+        "powersentry",
+        "postscript",
+        "phantom",
+        "aruba mobility master",
+        "apc",
+        "adaxes",
+        "f5 big-ip access policy manager (apm)",
+        "safend dps",
+        "stealthintercept",
+        "namespace rdirectory",
+        "onapsis",
+        "leap",
+        "jh",
+        "terraform",
+        "stealthbits stealth defend",
+        "admanager plus",
+        "tanium threat response",
+        "vectra cognito detect",
+        "riverbed steelhead",
+        "filesite",
+        "ibm racf",
+        "apache subversion",
+        "dxc technology",
+        "swift",
+        "sterling b2b integrator",
+        "rstudio server",
+        "chcom",
+        "rundeck",
+        "hp virtual connect enterprise manager",
+        "xsuite",
+        "ibm datapower",
+        "pharos",
+        "sitespect"
+      ]
+    }
+  },
+  "Landscape": {
+    "landscape": {
+      "access management": [
+        "auth0",
+        "onelogin",
+        "ping identity",
+        "pingone",
+        "duo access",
+        "entrust identity enterprise",
+        "okta adaptive mfa",
+        "oracle access management",
+        "symantec vip",
+        "active directory federation services",
+        "cloud akamai",
+        "securid",
+        "shibboleth",
+        "fortiauthenticator"
+      ],
+      "asset management": [
+        "lanscope cat"
+      ],
+      "backup & recovery": [
+        "rubrik cdm",
+        "cds"
+      ],
+      "cloud": [
+        "aws",
+        "gcp",
+        "azure",
+        "microsoft 365",
+        "oracle public cloud",
+        "google workspace"
+      ],
+      "cloud access security broker (casb)": [
+        "bitglass casb",
+        "symantec cloudsoc",
+        "netskope security cloud",
+        "palo alto aperture",
+        "skyhigh networks casb",
+        "forcepoint casb"
+      ],
+      "code management": [
+        "atlassian bitbucket",
+        "perforce",
+        "github"
+      ],
+      "communication platform": [
+        "zoom",
+        "slack",
+        "teams",
+        "anywhere365",
+        "cisco unified cm"
+      ],
+      "credential manager": [
+        "lastpass",
+        "password manager pro",
+        "specops password"
+      ],
+      "crm (customer relationship management)": [
+        "salesforce"
+      ],
+      "database": [
+        "mariadb",
+        "azure database for mysql",
+        "teradata rdbms",
+        "sonarg",
+        "snowflake",
+        "cassandra db",
+        "postgresql",
+        "mssql",
+        "oracle database",
+        "db2",
+        "sybase"
+      ],
+      "directory service": [
+        "microsoft ad",
+        "opendj",
+        "sunone",
+        "edirectory"
+      ],
+      "dlp (data leak protection)": [
+        "infowatch"
+      ],
+      "edr (endpoint detection & response)": [
+        "carbon black ces",
+        "cortex xdr",
+        "falcon",
+        "cisco secure endpoint",
+        "digital guardian endpoint protection"
+      ],
+      "electronic signature (esignature)": [
+        "onespan",
+        "docusign esignature",
+        "signnow"
+      ],
+      "email": [
+        "microsoft exchange",
+        "yahoo mail",
+        "google workspace - gmail",
+        "hcl notes",
+        "unix sendmail",
+        "m365 - exchange online",
+        "postfix"
+      ],
+      "email security": [
+        "mimecast email security",
+        "symantec email security"
+      ],
+      "endpoint": [
+        "windows",
+        "unix",
+        "openvms",
+        "solaris",
+        "z/os",
+        "macos"
+      ],
+      "epp (endpoint protection platform)": [
+        "carbon black ces",
+        "cylance",
+        "symantec endpoint protection",
+        "blackberry protect",
+        "checkpoint anti-malware",
+        "lumension",
+        "gravityzone",
+        "eset endpoint security"
+      ],
+      "erp (enterprise resource planning)": [
+        "sap",
+        "workday"
+      ],
+      "event management & forwarding": [
+        "exabeam dl"
+      ],
+      "file integrity monitoring": [
+        "nnt changetracker"
+      ],
+      "file sharing": [
+        "box cloud content management",
+        "netdocs",
+        "netapp",
+        "nasuni",
+        "imanage",
+        "emc isilon",
+        "google workspace - drive",
+        "cohesity dataplatform",
+        "synology nas",
+        "m365 - sharepoint",
+        "egnyte",
+        "gcp - cloud storage",
+        "aws - s3",
+        "HPE 3PAR StoreServ",
+        "dropbox",
+        "kiteworks",
+        "citrix sharefile"
+      ],
+      "file transfer": [
+        "ipswitch moveit",
+        "titanftp",
+        "axway gateway",
+        "sftp"
+      ],
+      "firewall": [
+        "check point ngfw",
+        "sangfor ngaf",
+        "cisco meraki mx appliance",
+        "fortinet enterprise firewall",
+        "juniper srx",
+        "fortinet utm",
+        "palo alto ngfw",
+        "cisco pix",
+        "watchguard",
+        "cisco asa"
+      ],
+      "honeypot": [
+        "botsink"
+      ],
+      "identity administration (idm\\iam)": [
+        "one identity manager",
+        "netiq identity and access management",
+        "imprivata",
+        "identitynow",
+        "vmware identity manager",
+        "xceedium",
+        "securelink"
+      ],
+      "insider risk management": [
+        "observeit"
+      ],
+      "load balancer": [
+        "kemp loadmaster",
+        "load balancer",
+        "load balancer"
+      ],
+      "network": [
+        "network"
+      ],
+      "mobile management": [
+        "vmware airwatch"
+      ],
+      "network access control (nac)": [
+        "cisco ise",
+        "cisco acs",
+        "microsoft network policy server",
+        "forescout counteract",
+        "packetfence",
+        "viascope ipscan",
+        "aruba clearpass access control and policy management"
+      ],
+      "network devices": [
+        "cisco ios",
+        "hpe comware",
+        "aruba wireless controller",
+        "arubaos",
+        "avaya ethernet routing switch"
+      ],
+      "network management": [
+        "zebra wlan management",
+        ""
+      ],
+      "network automation and orchestration": [
+        "algosec firewall analyzer",
+        "msdhcp",
+        "f5 big-ip dns"
+      ],
+      "network analyzer": [
+        "cloudflare insights"
+      ],
+      "network performance monitoring": [
+        "splunk stream"
+      ],
+      "personalization engines": [
+        "sitespect"
+      ],
+      "physical access control": [
+        "onguard",
+        "net2door",
+        "lyrix",
+        "lenel onguard",
+        "kaba exos",
+        "johnson controls p2000",
+        "icpam",
+        "honeywell win-pak",
+        "honeywell siama",
+        "honeywell pro-watch",
+        "identiv",
+        "access it universal.net",
+        "timelox",
+        "generic badge access",
+        "galaxy",
+        "datawatch",
+        "symmetry access control",
+        "swipes",
+        "siemens access control",
+        "securityexpert",
+        "ccure building management system",
+        "brivo",
+        "rs2 technologies",
+        "rightcrowd",
+        "aviglion acm",
+        "badge",
+        "sensormatik",
+        "gallagher access control",
+        "vanderbilt"
+      ],
+      "printer": [
+        "lexmark",
+        "hp safecom",
+        "hp laserjet printer",
+        "ricoh printer",
+        "asupim",
+        "xps",
+        "xerox"
+      ],
+      "privilege access management": [
+        "osirium",
+        "megaflex",
+        "mastersam pam",
+        "thycotic software secret server",
+        "beyondtrust",
+        "ca privileged access manager server control",
+        "centrify infrastructure services",
+        "hashicorp vault",
+        "powertech identity access manager (boks)",
+        "cyberark vault",
+        "cyberark epm"
+      ],
+      "proxy": [
+        "blue coat proxysg",
+        "moveit dmz"
+      ],
+      "remote access": [
+        "apache guacamole"
+      ],
+      "sandboxing": [
+        "deep discovery inspector",
+        "check point threat emulation",
+        "lastline"
+      ],
+      "secure web gateway": [
+        "zscaler internet access"
+      ],
+      "social networks": [
+        "facebook",
+        "linkedin"
+      ],
+      "siem (security information and event management)": [
+        "qradar siem",
+        "logrhythm",
+        "eyeinspect",
+        "darktrace",
+        "skysea clientview",
+        "rsa netwitness",
+        "splunk se",
+        "epic siem",
+        "netwrix auditor",
+        "varonis data security platform"
+      ],
+      "Unified Endpoint Management (UEM)": [
+        "Citrix Endpoint Management"
+      ],
+      "user authentication": [
+        "silverfort",
+        "secure envoy",
+        "swivel",
+        "rsa authentication manager",
+        "rsa adaptive authentication",
+        "centrify authentication service",
+        "centrify zero trust privilege services",
+        "thales",
+        "secure computing safeword",
+        "digipass",
+        "gemalto mfa"
+      ],
+      "virtualization": [
+        "Citrix Virtual Apps",
+        "Citrix Virtual Desktop",
+        "vmware view",
+        "vmware esxi",
+        "vmware vcenter",
+        "gcp - cloud compute",
+        "aws - ec2",
+        "ovirt",
+        "vmware horizon"
+      ],
+      "vpn (virtual private network)": [
+        "check point security gateway",
+        "nortel contivity vpn",
+        "netmotion wireless",
+        "ncp",
+        "citrix gateway",
+        "cognitas crosslink",
+        "open vpn",
+        "securenet",
+        "cato cloud",
+        "avaya vpn",
+        "zscaler private access",
+        "fortinet vpn",
+        "juniper pulse secure",
+        "palo alto globalprotect",
+        "any connect"
+      ],
+      "waf": [
+        "airlock waf",
+        "magento waf",
+        "imperva securesphere"
+      ],
+      "web server": [
+        "microsoft iis"
+      ],
+      "workload protection": [
+        "carbon black app control",
+        "illumio",
+        "prisma cloud",
+        "cisco adc"
+      ],
+      "other": [
+        "icdb",
+        "cisco dhcp",
+        "weblogin",
+        "vormetric",
+        "vmware nsx",
+        "usb",
+        "fileauditor",
+        "fast enterprises gentax",
+        "sailpoint fam",
+        "emp",
+        "edocs",
+        "clearsense",
+        "servicenow",
+        "tufin securetrack",
+        "seclore",
+        "ruid",
+        "powersentry",
+        "postscript",
+        "phantom",
+        "aruba mobility master",
+        "apc",
+        "adaxes",
+        "f5 big-ip access policy manager (apm)",
+        "safend dps",
+        "stealthintercept",
+        "namespace rdirectory",
+        "onapsis",
+        "leap",
+        "jh",
+        "terraform",
+        "tanium threat response",
+        "vectra cognito detect",
+        "filesite",
+        "ibm racf",
+        "trello",
+        "dxc technology",
+        "sterling b2b integrator",
+        "rstudio server",
+        "chcom",
+        "rundeck",
+        "xsuite",
+        "ibm datapower",
+        "swift",
+        "hp virtual connect enterprise manager"
+      ]
+    }
+  }
+}
