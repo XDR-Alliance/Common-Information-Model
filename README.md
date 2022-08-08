@@ -12,5 +12,5 @@ The Common Information Model defines the structure of security content across Ex
 
 The Common Information Model includes a set of layered interfaces that each inherit the configuration of the previous layer. Together they create a complete picture of an event, according to the information model. Note that, with this layered approach, if an element is shown with an empty field array, it is by design because the element's field structure is defined in another interface. For more information, see [Common Information Model Interface](https://docs.exabeam.com/en/content/all/exabeam-security-content/182296-security-content-in-the-common-information-model-structure.html#UUID-0a6f25e0-a3cf-c844-0ac8-7c9ff7b0e2ee)
 
-You can explore the details of the entire common information Model in the CIM.json file and also explore the product categories formed in the categories.json file.
+You can explore the details of the entire Common Information Model in the cim.json file and also explore the product categories formed in the categories.json file.
 
